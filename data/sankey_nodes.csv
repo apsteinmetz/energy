@@ -1,0 +1,454 @@
+"name","id","tags","state_breakdown","waste_percentage","machine_type","coal_overhead","petroleum_overhead","natural_gas_overhead","nuclear_overhead","solar/pv_overhead","biomass_overhead","wind_overhead","hydroelectric_overhead","geothermal_overhead"
+"petroleum net imports",0,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"primary petroleum",1,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"total petroleum field production",2,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"renewable fuels and oxygenate plant net production",3,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"petroleum processing gain",4,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"petroleum stock",5,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"petroleum adjustments",6,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"residential sector",7,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"commercial sector",8,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"transportation sector",10,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"natural gas net imports",11,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"primary natural gas",12,"{}","",0,"Gas turbine, steam turbine, process heat, water heating, space heating, chemical process",0,0,0,0,0,0,0,0,0
+"natural gas production (dry)",13,"{}","",0,"Gas turbine, steam turbine, process heat, water heating, space heating, chemical process",0,0,0,0,0,0,0,0,0
+"supplemental gaseous fuels",14,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"net storage withdrawals",15,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"balancing item",16,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"primary coal",17,"{}","",0,"Steam turbine, process heating",0,0,0,0,0,0,0,0,0
+"coal net exports",18,"{}","",0,"Steam turbine, process heating",0,0,0,0,0,0,0,0,0
+"coal production",19,"{}","",0,"Steam turbine (~90%), process heating",0,0,0,0,0,0,0,0,0
+"waste coal supplied",20,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"coal stock change",21,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"coal losses and unaccounted",22,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"total biomass energy production",23,"{}","",0,"Reciprocating engine, steam turbine, direct combustion",0,0,0,0,0,0,0,0,0
+"primary biomass",24,"{}","",0,"Reciprocating engine, steam turbine, direct combustion",0,0,0,0,0,0,0,0,0
+"geothermal energy production",25,"{}","",0,"Steam turbine, organic rankine cycle, process heating, space heating, water heating",0,0,0,0,0,0,0,0,0
+"primary geothermal",26,"{}","",0,"Steam turbine, organic rankine cycle, process heating, space heating, water heating",0,0,0,0,0,0,0,0,0
+"solar/pv energy production",27,"{}","",0,"Photovoltaics",0,0,0,0,0,0,0,0,0
+"primary solar/pv",28,"{}","",0,"Photovoltaics",0,0,0,0,0,0,0,0,0
+"hydroelectric energy production",29,"{}","",0,"Hydro electric turbine",0,0,0,0,0,0,0,0,0
+"primary hydroelectric",30,"{}","",0,"Hydro electric turbine",0,0,0,0,0,0,0,0,0
+"wind energy production",31,"{}","",0,"Wind turbine",0,0,0,0,0,0,0,0,0
+"primary wind",32,"{}","",0,"Wind turbine",0,0,0,0,0,0,0,0,0
+"nuclear production",33,"{}","",0,"Steam turbine",0,0,0,0,0,0,0,0,0
+"primary nuclear",34,"{}","",0,"Steam turbine",0,0,0,0,0,0,0,0,0
+"electricity net imports",35,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"electricity",36,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"commercial-electricity",37,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"commercial-natural gas",38,"{}","",0,"Space heating, water heating",0,0,0,0,0,0,0,0,0
+"commercial-fuel oil",39,"{}","",0,"Space heating, water heating",0,0,0,0,0,0,0,0,0
+"commercial-district heat",40,"{}","",0,"Space heating, water heating",0,0,0,0,0,0,0,0,0
+"education",41,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"food sales",42,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"food service",43,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"healthcare-inpatient",44,"{""health"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"healthcare-outpatient",45,"{""health"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"lodging",46,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"retail (other than mall)",47,"{""stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"enclosed and strip malls",48,"{""stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"office",49,"{""services"":0}","",0.08,"",0,0,0,0,0,0,0,0,0
+"public assembly",50,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"public order and safety",51,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"religious worship",52,"{""services"":0}","",0,"building",0,0,0,0,0,0,0,0,0
+"service",53,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"warehouse and storage",54,"{""stuff"":0}","",0,"building",0,0,0,0,0,0,0,0,0
+"commercial-other",55,"{""services"":0.5,""stuff"":0.5}","",0,"",0,0,0,0,0,0,0,0,0
+"vacant",56,"{""services"":0.5,""stuff"":0.5}","",0,"",0,0,0,0,0,0,0,0,0
+"space heating",57,"{""stuff"":0.1,""services"":0.1,""health"":0.1,""food"":0.1,""housing"":0.6}","",0.22,"Direct combustion, electric heat pump",0,0,0,0,0,0,0,0,0
+"air conditioning",58,"{""stuff"":0.1,""services"":0.1,""health"":0.1,""food"":0.1,""housing"":0.6}","",0.41,"Electric heat pump",0,0,0,0,0,0,0,0,0
+"ventilation",59,"{""stuff"":0.25,""services"":0.25,""health"":0.25,""food"":0.25}","",0.23,"Electric fan",0,0,0,0,0,0,0,0,0
+"water heating",60,"{""food"":0.1}","",0.32,"Direct combustion, direct electric, electric heat pump",0,0,0,0,0,0,0,0,0
+"lighting",61,"{""stuff"":0.1,""services"":0.1,""health"":0.1,""food"":0.1,""housing"":0.6}","",0.9,"",0,0,0,0,0,0,0,0,0
+"cooking",62,"{""food"":0}","",0.6,"Direct combustion, direct electric",0,0,0,0,0,0,0,0,0
+"refrigerators",63,"{""food"":0}","",0.64,"Electric heat pump",0,0,0,0,0,0,0,0,0
+"office equipment",64,"{""services"":0.5,""stuff"":0.5}","",0.6,"computer",0,0,0,0,0,0,0,0,0
+"computing",65,"{""services"":0}","",0.25,"computer",0,0,0,0,0,0,0,0,0
+"other appliances",66,"{""services"":0.5,""stuff"":0.5}","",0.24,"",0,0,0,0,0,0,0,0,0
+"residential-electricity",69,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"residential-natural gas",70,"{""housing"":0}","",0,"direct combustion",0,0,0,0,0,0,0,0,0
+"residenital-propane/ lpg",71,"{""housing"":0}","",0,"direct combustion",0,0,0,0,0,0,0,0,0
+"residential-fuel oil",72,"{""housing"":0}","",0,"direct combustion",0,0,0,0,0,0,0,0,0
+"residential-kerosene",73,"{""housing"":0}","",0,"direct combustion",0,0,0,0,0,0,0,0,0
+"single-family detached",74,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"single-family attached",75,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"apartments in 2-4 unit buildings",76,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"apartments in 5 or more unit buildings",77,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"mobile homes",78,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"single-family",79,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"multi-family",80,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"other-residential",81,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"electronics",82,"{""stuff"":0}","",0.73,"",0,0,0,0,0,0,0,0,0
+"washing",83,"{""stuff"":0}","",0.16,"Electric motor",0,0,0,0,0,0,0,0,0
+"highway",84,"{}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"non-highway",85,"{}","",0,"Reciprocating engine, gas turbine, electric drive train",0,0,0,0,0,0,0,0,0
+"transportation-related fuel consumption",86,"{}","",0,"Reciprocating engine, gas turbine, electric drive train",0,0,0,0,0,0,0,0,0
+"buses",87,"{""transport-people"":0}","",0,"Reciprocating engine, fuel cell",0,0,0,0,0,0,0,0,0
+"intercity",88,"{""transport-people"":0}","",0.73,"Reciprocating engine, fuel cell",0,0,0,0,0,0,0,0,0
+"school",89,"{""transport-people"":0}","",0.73,"Reciprocating engine, fuel cell",0,0,0,0,0,0,0,0,0
+"transit",90,"{""transport-people"":0}","",0.73,"Reciprocating engine, fuel cell",0,0,0,0,0,0,0,0,0
+"commercial light trucks",91,"{""transport-stuff"":0}","",0.78,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"freight trucks",92,"{""transport-stuff"":0}","",0,"Reciprocating engine",0,0.11,0,0,0,0,0,0,0
+"light-duty vehicles",93,"{""transport-people"":0}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"class 7-8 trucks",94,"{""transport-stuff"":0}","",0.03,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"class 3-6 trucks",95,"{""transport-stuff"":0}","",0.03,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"cars",96,"{""transport-people"":0}","",0,"Reciprocating engine, electric drivetrain",0,0,0,0,0,0,0,0,0
+"light trucks",97,"{""transport-people"":0}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"motorcycles",98,"{""transport-people"":0}","",0.83,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"air",99,"{""transport-people"":0}","",0.31,"Gas turbine",0,0,0,0,0,0,0,0,0
+"water",100,"{}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"rail",101,"{""transport-stuff"":0}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"domestic carriers",102,"{""transport-people"":0}","",0.66,"Gas turbine",0,0,0,0,0,0,0,0,0
+"freight carriers",103,"{""transport-people"":0}","",0.66,"Gas turbine",0,0,0,0,0,0,0,0,0
+"general aviation",104,"{""transport-people"":0}","",0.66,"Gas turbine",0,0,0,0,0,0,0,0,0
+"freight-rail",105,"{""food"":0.2,""transport-stuff"":0.8}","",0.67,"Reciprocating engine","0.33; Oil:1.",0,0,0,0,0,0,0,0
+"passenger",106,"{""transport-people"":0}","",0.67,"Reciprocating engine,electric motor",0,0,0,0,0,0,0,0,0
+"water-freight",107,"{""transport-stuff"":0}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"domestic shipping",108,"{""transport-stuff"":0}","",0.74,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"international shipping",109,"{""transport-stuff"":0}","",0.74,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"recreational boats",110,"{""transport-people"":0}","",0.74,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"pipeline fuel natural gas",111,"{""NG-production"":0}","",0.8,"Reciprocating engine, gas turbine, electric drive train",0,0,1,0,0,0,0,0,0
+"agricultural equipment",112,"{""food"":0}","",0.8,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"construction and mining equipment",113,"{""transport-stuff"":0}","",0.8,"Reciprocating engine, electric motor",0.6,0,0,0,0,0,0,0,0
+"industrial equipment",114,"{""transport-stuff"":0}","",0.8,"",0,0,0,0,0,0,0,0,0
+"recreational equipment",115,"{""transport-stuff"":0}","",0.8,"",0,0,0,0,0,0,0,0,0
+"earn a living",116,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"family/personal business",117,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"school/church",118,"{""transport-people"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"social & recreational",119,"{""transport-people"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"auto-other",120,"{""transport-people"":0}","",0,"Reciprocating engine",0,0,0,0,0,0,0,0,0
+"unreported",121,"{""transport-people"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"0-5 miles",122,"{""food"":0.09,""transport-people"":0.91}","",0.78,"",0,0,0,0,0,0,0,0,0
+"5-19 miles",123,"{""food"":0.09,""transport-people"":0.91}","",0.78,"",0,0,0,0,0,0,0,0,0
+"20-50 miles",124,"{""food"":0.09,""transport-people"":0.91}","",0.78,"",0,0,0,0,0,0,0,0,0
+"50+ miles",125,"{""food"":0.09,""transport-people"":0.91}","",0.78,"",0,0,0,0,0,0,0,0,0
+"other prepared foodstuffs, and fats and oils (cfs10)",126,"{""food"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"base metal in primary or semi-finished forms and in finished basic shapes",127,"{""stuff"":0,""make-stuff"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"non-metallic mineral products",128,"{""stuff"":0,""make-stuff"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"mixed freight",129,"{""stuff"":0,""make-stuff"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"plastics and rubber",130,"{""stuff"":0,""make-stuff"":0,""plastics"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"motorized and other vehicles (includes parts)",132,"{""transport-stuff"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"other coal and petroleum products, not elsewhere classified",133,"{}","",0.63,"",0,0,0,0,0,0,0,0,0
+"basic chemicals",134,"{""stuff"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"waste and scrap",135,"{""food"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"meat, poultry, fish, seafood, and their preparations",136,"{""food"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"pulp, newsprint, paper, and paperboard",137,"{""stuff"":0,""make-stuff"":0,""transport-stuff"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"gravel and crushed stone (excludes dolomite and slate)",138,"{}","",0.63,"Reciprocating engine, electric motor",0,0,0,0,0,0,0,0,0
+"agricultural products (excludes animal feed, cereal grains, and forage products)",139,"{""food"":0}","",0.63,"",0,0,0,0,0,0,0,0,0
+"other commodities",140,"{}","",0.63,"",0,0,0,0,0,0,0,0,0
+"agriculture",147,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"construction",148,"{}","",0.47,"",0,0,0,0,0,0,0,0,0
+"mining",149,"{""oil-production"":0.3,""NG-production"":0.3,""stuff"":0.4}","",0,"",0,0,0,0,0,0,0,0,0
+"data centers",150,"{""services"":0}","",0.56,"",0,0,0,0,0,0,0,0,0
+"food-other",177,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"paper-other",187,"{""stuff-make"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"chemicals-other",200,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"nonmetallic mineral products-other",210,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"computer and electronic products-other",218,"{""stuff"":0,""computers"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"transportation equipment-other",223,"{""transport people"":0,""transport stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"extraction",224,"{""stuff"":0}","",0,"","0.33: oil: 1.",0,0,0,0,0,0,0,0
+"materials handling",225,"{""stuff"":0}","",0,"",0.33,0,0,0,0,0,0,0,0
+"beneficiation and processing",226,"{""stuff"":0}","",0,"",0.33,0,0,0,0,0,0,0,0
+"oil and natural gas extraction",227,"{""fossil production"":0}","",0.42,"",0,0.5,0.5,0,0,0,0,0,0
+"drilling",228,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"blasting",229,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"digging",230,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"dewatering",231,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"diesel equipment",232,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"electric equipment",233,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"crushing",234,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"grinding",235,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"separations",236,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"crops",237,"{""food"":0,""stuff"":0}","",0,"irrigation pumps@https://www.ers.usda.gov/webdocs/publications/74658/60128_eib159.pdf?v=42593, grain drying@https://www.ers.usda.gov/webdocs/publications/74658/60128_eib159.pdf?v=42593, heavy machinery",0,0,0,0,0,0,0,0,0
+"livestock",238,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"major field crops",239,"{""food"":0.9,""stuff"":null}","",0.42,"",0,0,0,0,0,0,0,0,0
+"vegetables and fruits",240,"{""food"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"greenhouse and nursery",241,"{""food"":0}","",0.42,"heating and cooling pumps, ventilation",0,0,0,0,0,0,0,0,0
+"beef and cattle ranching",242,"{""food"":0}","",0.42,"feedstock, fertilizer (mostly indirect energy)",0,0,0,0,0,0,0,0,0
+"aquaculture and other",243,"{""food"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"dairy cattle and milk production",244,"{""food"":0}","",0.42,"milk pumping, cooling@https://www.ers.usda.gov/webdocs/publications/74658/60128_eib159.pdf?v=42593",0,0,0,0,0,0,0,0,0
+"hog and pig farming",245,"{""food"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"poultry and egg production",246,"{""food"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"cattle feedlots",247,"{""food"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"construction of buildings",248,"{}","",0,"electric motor, reciprocating engine, direct combustion, electric heat pump",0,0,0,0,0,0,0,0,0
+"heavy and civil engineering construction",249,"{""roads"":0,""dams"":0}","",0,"electric motor, reciprocating engine, direct combustion, electric heat pump",0,0,0,0,0,0,0,0,0
+"specialty trade contractors",250,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"new single-family housing construction (except for-sale builders)",251,"{""housing"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"new multifamily housing construction (except for-sale builders)",252,"{""housing"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"new housing for-sale builders",253,"{""housing"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"residential remodelers",254,"{""housing"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"industrial building construction",255,"{""stuff"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"commercial and institutional building construction",256,"{""stuff"":0.5,""services"":0.5}","",0.42,"",0,0,0,0,0,0,0,0,0
+"water and sewer line and related structures construction",257,"{""infrastructure"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"oil and gas pipeline and related structures construction",258,"{""fossil production"":0}","",0.42,"",0,0.5,0.5,0,0,0,0,0,0
+"power and communication line and related structures construction",259,"{""infrastructure"":0,""electricity"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"land subdivision",260,"{""housing"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"highway, street, and bridge construction",261,"{""roads"":0,""infrastructure"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"other heavy and civil engineering construction",262,"{""infrastructure"":0}","",0.42,"",0,0,0,0,0,0,0,0,0
+"poured concrete foundation and structure contractors",263,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"structural steel and precast concrete contractors",264,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"framing contractors",265,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"masonry contractors",266,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"glass and glazing contractors",267,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"roofing contractors",268,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"siding contractors",269,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"other foundation, structure, and building exterior contractors",270,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"electrical contractors and other wiring installation contractors",271,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"plumbing, heating, and air-conditioning contractors",272,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"other building equipment contractors",273,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"drywall and insulation contractors",274,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"painting and wall covering contractors",275,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"flooring contractors",276,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"tile and terrazzo contractors",277,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"finish carpentry contractors",278,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"other building finishing contractors",279,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"site preparation contractors",280,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"all other specialty trade contractors",281,"{""housing"":0.5,""stuff"":0.25,""services"":0.25}","",0.42,"",0,0,0,0,0,0,0,0,0
+"government sector",294,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"national aeronautics and space administration",295,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"other u.s. government agencies",296,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of agriculture",297,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of defense",298,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"department of energy",299,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of health and human services",300,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of justice",301,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of transportation",302,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of veterans affairs",303,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"department of the interior",304,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"general services administration",305,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"postal service",306,"{""transport-stuff"":0}","",0.41,"",0,0,0,0,0,0,0,0,0
+"dod-electricity",307,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"dod-petroleum",308,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"dod-natural gas",309,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"dod-coal",310,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"dod-renewables",311,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"dod-other",312,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"auto gas",313,"{}","",0.79,"",0,0,0,0,0,0,0,0,0
+"dist-diesel",314,"{}","",0.79,"",0,0,0,0,0,0,0,0,0
+"aviation gas",315,"{}","",0.5,"",0,0,0,0,0,0,0,0,0
+"jet fuel",316,"{}","",0.5,"",0,0,0,0,0,0,0,0,0
+"embodied energy of net imports",317,"{}","",0.41,"",0,0,0,0,0,0,0,0,0
+"electricity used in generation",319,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"transmission and distribution losses",320,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"produced and distributed petroleum",321,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed natural gas",322,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed coal",323,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed biomass",324,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed solar/pv",325,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed geothermal",326,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed hydroelectric",327,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"produced and distributed wind",328,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"residential electricity loss",329,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"commercial electricity loss",330,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"industrial electricity loss",331,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"transportation electricity loss",332,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"government electricity loss",333,"{}","",1,"",0,0,0,0,0,0,0,0,0
+"wastewater treatment",334,"{""water"":0,""processing"":0,""water-treatment"":0}","",0.4,"","","","","","","","","",""
+"water treatment",335,"{""water"":0,""processing"":0,""water-treatment"":0}","",0,"","","","","","","","","",""
+"municipal lighting",336,"{""lighting"":0}","",0,"","","","","","","","","",""
+"traffic lighting",337,"{""lighting"":0,""traffic-lighting"":0}","",0,"","","","","","","","","",""
+"traffic signals",338,"{""lighting"":0,""traffic-lighting"":0}","",0.09,"","","","","","","","","",""
+"turn arrows",339,"{""lighting"":0,""traffic-lighting"":0}","",1,"","","","","","","","","",""
+"pedestrian signals",340,"{""lighting"":0,""traffic-lighting"":0}","",0.47,"","","","","","","","","",""
+"airport lighting",341,"{""lighting"":0,""airport-lighting"":0}","",0,"","","","","","","","","",""
+"approach systems",342,"{""lighting"":0,""airport-lighting"":0}","",0.99,"","","","","","","","","",""
+"touchdown lights",343,"{""lighting"":0,""airport-lighting"":0}","",0.82,"","","","","","","","","",""
+"centerline lights",344,"{""lighting"":0,""airport-lighting"":0}","",0.87,"","","","","","","","","",""
+"taxiway/runway edge lights",345,"{""lighting"":0,""airport-lighting"":0}","",0.91,"","","","","","","","","",""
+"other municipal lighting",346,"{""lighting"":0,""other-lighting"":0}","",0,"","","","","","","","","",""
+"billboards",347,"{""lighting"":0,""other-lighting"":0}","",0.93,"","","","","","","","","",""
+"parking lots",348,"{""lighting"":0,""other-lighting"":0}","",0.04,"","","","","","","","","",""
+"street lighting",349,"{""lighting"":0,""other-lighting"":0}","",0.87,"","","","","","","","","",""
+"ghost quads",350,"{}","",0,"","","","","","","","","",""
+"industrial sector",1000,"{}","",0,0,0,0,0,0,0,0,0,0,""
+"industrial-electricity",1001,"{}","",0,0,0,0,0,0,0,0,0,0,""
+"industrial-petroleum",1002,"{}","",0,0,0,0,0,0,0,0,0,0,""
+"industrial-natural gas",1003,"{}","",0,0,0,0,0,0,0,0,0,0,""
+"industrial-coal",1004,"{}","",0,0,0,0,0,0,0,0,0,0,""
+"industrial-other",1006,"{}","",0,0,0,0,0,0,0,0,0,0,""
+"manufacturing",1007,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,0,""
+"energy materials in products",1008,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,0,""
+"food",1009,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"grain and oilseed milling",1010,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"sugar manufacturing",1012,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"fruit and vegetable preserving and specialty food",1013,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"dairy product",1014,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"animal slaughtering and processing",1015,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"wet corn milling",1011,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"grain and oilseed milling (passthrough1)",1010,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"sugar manufacturing (passthrough1)",1012,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"fruit and vegetable preserving and specialty food (passthrough1)",1013,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"dairy product (passthrough1)",1014,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"animal slaughtering and processing (passthrough1)",1015,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"beverage and tobacco products",1016,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"beverages",1017,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"tobacco",1018,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"textile mills",1019,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":null}","",0,0,0,0,0,0,0,0,0,"",""
+"textile product mills",1020,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":null}","",0,0,0,0,0,0,0,0,0,"",""
+"apparel",1021,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":null}","",0,0,0,0,0,0,0,0,0,"",""
+"leather and allied products",1022,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"wood products",1023,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0.21,0,0,0,0,0,0,0,0,"",""
+"sawmills",1024,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"veneer, plywood, and engineered woods",1025,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"other wood products",1027,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"reconstituted wood products",1026,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"sawmills (passthrough1)",1024,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"veneer, plywood, and engineered woods (passthrough1)",1025,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"other wood products (passthrough1)",1027,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"paper",1028,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":null,""transport"":null}","",0,0,0,0,0,0,0,0,0,"",""
+"pulp mills",1029,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"paper mills, except newsprint",1030,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"newsprint mills",1031,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"paperboard mills",1032,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"printing and related support",1033,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"petroleum and coal products",1034,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"petroleum refineries",1035,"{""mecs"":0,""naics"":0,""manufacturing"":0,""fossil-production"":0}","",0,0,"1.; Oil:.98",0,0,0,0,0,0,"",""
+"asphalt paving mixture and block",1036,"{""mecs"":0,""naics"":0,""manufacturing"":0,""roads"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"asphalt shingle and coating materials",1037,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other petroleum and coal products",1038,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"chemicals",1039,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"petrochemicals",1040,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"industrial gases",1041,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other basic inorganic chemicals",1042,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"ethyl alcohol",1043,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"cyclic crudes, intermediate and gum and wood chemicals",1044,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other basic organic chemicals",1045,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"plastics materials and resins",1046,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"synthetic rubber",1047,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"artificial and synthetic fibers and filaments",1048,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"nitrogenous fertilizers",1049,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"phosphatic fertilizers",1050,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"pharmaceuticals and medicines",1051,"{""mecs"":0,""naics"":0,""manufacturing"":0,""health"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"photographic film, paper, plate, and chemicals",1053,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"pharmaceutical preparation",1052,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"petrochemicals (passthrough1)",1040,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"industrial gases (passthrough1)",1041,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other basic inorganic chemicals (passthrough1)",1042,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"ethyl alcohol (passthrough1)",1043,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"cyclic crudes, intermediate and gum and wood chemicals (passthrough1)",1044,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other basic organic chemicals (passthrough1)",1045,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"plastics materials and resins (passthrough1)",1046,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"synthetic rubber (passthrough1)",1047,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"artificial and synthetic fibers and filaments (passthrough1)",1048,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"nitrogenous fertilizers (passthrough1)",1049,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"phosphatic fertilizers (passthrough1)",1050,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"pharmaceuticals and medicines (passthrough1)",1051,"{""mecs"":0,""naics"":0,""manufacturing"":0,""health"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"photographic film, paper, plate, and chemicals (passthrough1)",1053,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"plastics and rubber products",1054,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"nonmetallic mineral products",1055,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"clay building material and refractories",1056,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"flat glass",1057,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"other pressed and blown glass and glassware",1058,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"glass containers",1059,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"glass products from purchased glass",1060,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"cements",1061,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"lime",1062,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"gypsum",1063,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"mineral wool",1064,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"primary metals",1065,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"iron and steel mills and ferroalloys",1066,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"steel products from purchased steel",1067,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"alumina and aluminum",1068,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"nonferrous metals, except aluminum",1072,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"foundries",1074,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"secondary smelting and alloying of aluminum",1069,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"aluminum sheet, plate and foils",1070,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other aluminum rolling, drawing and extruding",1071,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"nonferrous metal (except aluminum) smelting and refining",1073,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"iron foundries",1075,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"nonferrous metal die-casting foundries",1076,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"aluminum foundries, except die-casting",1077,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"iron and steel mills and ferroalloys (passthrough1)",1066,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"steel products from purchased steel (passthrough1)",1067,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"alumina and aluminum (passthrough1)",1068,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"nonferrous metals, except aluminum (passthrough1)",1072,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"foundries (passthrough1)",1074,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"fabricated metal products",1078,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"machinery",1079,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"computer and electronic products",1080,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"semiconductors and related devices",1081,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0,""computers"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"electrical equip., appliances, and components",1082,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"transportation equipment",1083,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"automobiles",1084,"{""mecs"":0,""naics"":0,""manufacturing"":0,""automobiles"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"light trucks and utility vehicles",1085,"{""mecs"":0,""naics"":0,""manufacturing"":0,""transportation"":0.358,""packaging"":0.182,""construction"":0.121}","",0,0,0,0,0,0,0,0,0,"",""
+"aerospace product and parts",1086,"{""mecs"":0,""naics"":0,""manufacturing"":0,""transportation"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"aircraft",1087,"{""mecs"":0,""naics"":0,""manufacturing"":0,""transport-people"":0,""transport-stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"automobiles (passthrough1)",1084,"{""mecs"":0,""naics"":0,""manufacturing"":0,""automobiles"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"light trucks and utility vehicles (passthrough1)",1085,"{""mecs"":0,""naics"":0,""manufacturing"":0,""transportation"":0.358,""packaging"":0.182,""construction"":0.121}","",0,0,0,0,0,0,0,0,0,"",""
+"aerospace product and parts (passthrough1)",1086,"{""mecs"":0,""naics"":0,""manufacturing"":0,""transportation"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"furniture and related products",1088,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"miscellaneous",1089,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"boiler fuel",1090,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"process energy",1091,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"nonprocess energy",1092,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"conventional boiler use",1093,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"chp and/or cogeneration process",1094,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"process heating",1095,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.5008695652,0,0,0,0,0,0,0,0,"",""
+"process cooling and refrigeration",1096,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.35,0,0,0,0,0,0,0,0,"",""
+"machine drive",1097,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.4333333333,0,0,0,0,0,0,0,0,"",""
+"electro-chemical processes",1098,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.6,0,0,0,0,0,0,0,0,"",""
+"other process use",1099,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.1,0,0,0,0,0,0,0,0,"",""
+"facility hvac",1100,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.35,0,0,0,0,0,0,0,0,"",""
+"facility lighting",1101,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.88,0,0,0,0,0,0,0,0,"",""
+"other facility support",1102,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.1,0,0,0,0,0,0,0,0,"",""
+"onsite transportation",1103,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0.6,0,0,0,0,0,0,0,0,"",""
+"conventional electricity generation",1104,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"other nonprocess use",1105,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"end use not reported",1106,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"non-manufacturing",2000,"{}","","","","","","","","","","","",""
+"ghost quads",,"{}",,0,,,,,,,,,,
+"electricity net imports (passthrough1)",35,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"education (passthrough1)",41,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"education (passthrough2)",41,"{}","",0,"",0,0,0,0,0,0,0,0,0
+"food sales (passthrough1)",42,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"food sales (passthrough2)",42,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"food service (passthrough1)",43,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"food service (passthrough2)",43,"{""food"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"healthcare-inpatient (passthrough1)",44,"{""health"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"healthcare-inpatient (passthrough2)",44,"{""health"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"healthcare-outpatient (passthrough1)",45,"{""health"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"healthcare-outpatient (passthrough2)",45,"{""health"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"lodging (passthrough1)",46,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"lodging (passthrough2)",46,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"retail (other than mall) (passthrough1)",47,"{""stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"retail (other than mall) (passthrough2)",47,"{""stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"enclosed and strip malls (passthrough1)",48,"{""stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"enclosed and strip malls (passthrough2)",48,"{""stuff"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"office (passthrough1)",49,"{""services"":0}","",0.08,"",0,0,0,0,0,0,0,0,0
+"office (passthrough2)",49,"{""services"":0}","",0.08,"",0,0,0,0,0,0,0,0,0
+"public assembly (passthrough1)",50,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"public assembly (passthrough2)",50,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"public order and safety (passthrough1)",51,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"public order and safety (passthrough2)",51,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"religious worship (passthrough1)",52,"{""services"":0}","",0,"building",0,0,0,0,0,0,0,0,0
+"religious worship (passthrough2)",52,"{""services"":0}","",0,"building",0,0,0,0,0,0,0,0,0
+"service (passthrough1)",53,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"service (passthrough2)",53,"{""services"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"warehouse and storage (passthrough1)",54,"{""stuff"":0}","",0,"building",0,0,0,0,0,0,0,0,0
+"warehouse and storage (passthrough2)",54,"{""stuff"":0}","",0,"building",0,0,0,0,0,0,0,0,0
+"commercial-other (passthrough1)",55,"{""services"":0.5,""stuff"":0.5}","",0,"",0,0,0,0,0,0,0,0,0
+"commercial-other (passthrough2)",55,"{""services"":0.5,""stuff"":0.5}","",0,"",0,0,0,0,0,0,0,0,0
+"vacant (passthrough1)",56,"{""services"":0.5,""stuff"":0.5}","",0,"",0,0,0,0,0,0,0,0,0
+"vacant (passthrough2)",56,"{""services"":0.5,""stuff"":0.5}","",0,"",0,0,0,0,0,0,0,0,0
+"mobile homes (passthrough1)",78,"{""housing"":0}","",0,"",0,0,0,0,0,0,0,0,0
+"beverages (passthrough1)",1017,"{""mecs"":0,""naics"":0,""manufacturing"":0,""food"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"tobacco (passthrough1)",1018,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"pulp mills (passthrough1)",1029,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"paper mills, except newsprint (passthrough1)",1030,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"newsprint mills (passthrough1)",1031,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"paperboard mills (passthrough1)",1032,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff-make"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"petroleum refineries (passthrough1)",1035,"{""mecs"":0,""naics"":0,""manufacturing"":0,""fossil-production"":0}","",0,0,"1.; Oil:.98",0,0,0,0,0,0,"",""
+"asphalt paving mixture and block (passthrough1)",1036,"{""mecs"":0,""naics"":0,""manufacturing"":0,""roads"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"asphalt shingle and coating materials (passthrough1)",1037,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"other petroleum and coal products (passthrough1)",1038,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"clay building material and refractories (passthrough1)",1056,"{""mecs"":0,""naics"":0,""manufacturing"":0}","","",0,0,0,0,0,0,0,0,0,""
+"flat glass (passthrough1)",1057,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"other pressed and blown glass and glassware (passthrough1)",1058,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"glass containers (passthrough1)",1059,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"glass products from purchased glass (passthrough1)",1060,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"cements (passthrough1)",1061,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"lime (passthrough1)",1062,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"gypsum (passthrough1)",1063,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"mineral wool (passthrough1)",1064,"{""mecs"":0,""naics"":0,""manufacturing"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"semiconductors and related devices (passthrough1)",1081,"{""mecs"":0,""naics"":0,""manufacturing"":0,""stuff"":0,""computers"":0}","",0,0,0,0,0,0,0,0,0,"",""
+"","","{}","","","","","","","","","","","",""
